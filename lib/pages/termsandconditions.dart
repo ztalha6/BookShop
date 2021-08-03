@@ -34,7 +34,7 @@ class _TermsState extends State<Terms> {
                             color: Color(0xff1d395c)),
                         children: <TextSpan>[
                           TextSpan(
-                            text: 'Condition.',
+                            text: 'Conditions.',
                             style: TextStyle(
                                 fontWeight: FontWeight.w800,
                                 fontSize:
